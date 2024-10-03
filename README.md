@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rupendra0
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning JAVA DEVELOPMENT
+- 👀 I’m interested in Developement...
+- 🌱 I’m currently working on Frameworks...
 - 💞️ I’m looking to collaborate on NEW WORLD
 - 📫 How to reach me - rupendragangwar07@gmail.com
 - 😄 Pronouns: he/his/him
