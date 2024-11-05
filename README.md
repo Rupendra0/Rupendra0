@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupendra&label=Profile%20views&color=0e75b6&style=flat" alt="rupendra" /> </p>
 
-- 🌱 I’m currently learning **Spring framework , Express.js**
+- 🌱 I’m currently learning ***Spring framework , SQL DATABASE***
 
 - 💬 Ask me about **React.js**
 
