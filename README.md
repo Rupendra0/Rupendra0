@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SPRING/SPRINGBOOT, REACT , DsAlgo[Cpp]**
 
-- 💬 Ask me about **Frontend web dev**
+- 💬 Ask me about **Frontend web deV, MYSQL, LANGCHAIN**
 
 - 📫 How to reach me **rupendragangwar07@gmail.com**
 
