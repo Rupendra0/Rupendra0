@@ -12,6 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupendra&label=Profile%20views&color=0e75b6&style=flat" alt="rupendra" /> </p>
 
 <div align="left" >
+  
 - 🌱 I’m currently learning **How do Software Works**
 
 - 💬 Ask me about **My Interests and Future Plans**
