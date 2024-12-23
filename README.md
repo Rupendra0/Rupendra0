@@ -52,8 +52,11 @@
 <a href="https://codeforces.com/profile/Rupendra0">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rupendra0&theme=github_dark&force_username=true&border_color=404040" alt="Rupendra Codeforces Stats"/>
 </a>
+  <a href="https://www.codechef.com/users/rupendra1">
+<img height="316" src="![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=rupendra1)" alt="Rupendra Codechef Stats"/>
+</a>
 <a href="https://leetcode.com/rupendra0/">
-<img height="316" src="https://leetcard.jacoblin.cool/rupendra0?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rupendra Leetcode Stats"/>
+<img height="316" width = "350"  src="https://leetcard.jacoblin.cool/rupendra0?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rupendra Leetcode Stats"/>
 </a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -61,3 +64,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupendra&show_icons=true&locale=en&layout=compact" alt="rupendra" /></p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
+
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p>
