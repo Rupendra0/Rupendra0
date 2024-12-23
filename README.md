@@ -54,12 +54,12 @@
 </a>
 
 <a href="https://leetcode.com/rupendra0/">
-<img style ="padding : 10px" height="316" width = "500"  src="https://leetcard.jacoblin.cool/rupendra0?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rupendra Leetcode Stats"/>
+<img height="316" width = "500"  src="https://leetcard.jacoblin.cool/rupendra0?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rupendra Leetcode Stats"/>
 </a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupendra&show_icons=true&locale=en&layout=compact" alt="rupendra" /></p>
+<p><img  style ="padding : 10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupendra&show_icons=true&locale=en&layout=compact" alt="rupendra" /></p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
 
