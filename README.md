@@ -10,13 +10,15 @@
 <h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupendra&label=Profile%20views&color=0e75b6&style=flat" alt="rupendra" /> </p>
-
+<p alig  = "left">
 - 🌱 I’m currently learning **SPRING/SPRINGBOOT, REACT , DsAlgo[Cpp]**
-
+  </p>
+  <p alig  = "left">
 - 💬 Ask me about **Frontend web deV, MYSQL, LANGCHAIN**
-
+  </p>
+<p alig  = "left">
 - 📫 How to reach me **rupendragangwar07@gmail.com**
-
+</p>
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
