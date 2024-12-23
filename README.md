@@ -41,8 +41,8 @@
 ## Coding Profiles📈
 
 <span>
-<a href="https://www.codechef.com/users/rupendra1">
-<img height="316" src="https://codechef-readme-stats.vercel.app/api/card?username=rupendra1&theme=github_dark&force_username=true&border_color=404040" alt="Rupendra Codechef Stats"/>
+<a href="https://codeforces.com/profile/Rupendra0">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rupendra0&theme=github_dark&force_username=true&border_color=404040" alt="Rupendra Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/rupendra0/">
 <img height="316" src="https://leetcard.jacoblin.cool/rupendra0?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rupendra Leetcode Stats"/>
