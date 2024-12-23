@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupendra&label=Profile%20views&color=0e75b6&style=flat" alt="rupendra" /> </p>
 
-
+<div align="left" >
 - 🌱 I’m currently learning **How do Software Works**
 
 - 💬 Ask me about **My Interests and Future Plans**
 
 - 📫 How to reach me **rupendragangwar07@gmail.com**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_rupendra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_rupendra01" height="30" width="40" /></a>
