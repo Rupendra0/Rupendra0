@@ -53,8 +53,10 @@
 
 <p><img  style ="padding : 10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupendra&show_icons=true&locale=en&layout=compact" alt="rupendra" /></p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
-
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
+
+
