@@ -45,13 +45,11 @@
 <img height="316" width = "500"  src="https://leetcard.jacoblin.cool/rupendra0?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rupendra Leetcode Stats"/>
 </a>
 
-  <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<p>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<p><img  style ="padding : 10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupendra&show_icons=true&locale=en&layout=compact" alt="rupendra" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake.svg">
+</picture>
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
