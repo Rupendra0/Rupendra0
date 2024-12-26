@@ -51,10 +51,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m3hu1/m3hu1/output/github-contribution-grid-snake.svg">
 </picture>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
+
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=footer)
 
 
